@@ -1,0 +1,2 @@
+chat/com/flutter_chat_bubble/BuildConfig.java
+ chat.com.flutter_chat_bubble.BuildConfig

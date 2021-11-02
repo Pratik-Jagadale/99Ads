@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/master/Desktop/Project/_99ads/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/master/.gradle/caches/transforms-2/files-2.1/0b5a5b09e796e23878a3527a434a4a63/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/master/Desktop/Project/_99ads/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/master/.gradle/caches/transforms-2/files-2.1/0b5a5b09e796e23878a3527a434a4a63/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/master/Desktop/Project/_99ads/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/master/.gradle/caches/transforms-2/files-2.1/0b5a5b09e796e23878a3527a434a4a63/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/master/Desktop/Project/_99ads/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/master/.gradle/caches/transforms-2/files-2.1/0b5a5b09e796e23878a3527a434a4a63/core-1.1.0/res/drawable/notification_bg_low.xml"
+    }
+]
